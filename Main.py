@@ -4,8 +4,8 @@ Created on Jun 17, 2016
 @author: michael.kleiman
 
 a quick script I quickly made to reveal the details off fullscreen applications' mouse input handling 
-(for example, if the app does not allow mouse acceleration to be fully disabled, 
-or if it is not clear how to achieve my deisred 1:1 ratio of input:motion)
+(for example, if the program does not allow mouse acceleration to be fully disabled, 
+or if it doesn't specify how to achieve my deisred 1:1 ratio of input:motion
 
 
 '''
